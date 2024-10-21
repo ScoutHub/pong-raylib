@@ -6,12 +6,12 @@
 
 #define SCREEN_WIDTH	800
 #define SCREEN_HEIGHT	600	
-#define RECT_WIDTH		20
-#define RECT_HEIGHT		80
-#define BALL_RADIUS		10	
+#define RECT_WIDTH	20
+#define RECT_HEIGHT	80
+#define BALL_RADIUS	10	
 #define MOVEMENT_OFFSET	20
-#define X_KEY			88
-#define W_KEY			87
+#define X_KEY		88
+#define W_KEY		87
 
 typedef struct {
 	int coord_x;
